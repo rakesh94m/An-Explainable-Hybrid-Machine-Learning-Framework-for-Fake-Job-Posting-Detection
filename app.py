@@ -154,3 +154,4 @@ if st.button("Detect Fraud"):
             "Positive features push the prediction toward **fraud**, "
             "negative features push it toward **legitimate**."
         )
+        
